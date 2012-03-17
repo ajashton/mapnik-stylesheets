@@ -10,57 +10,57 @@
       &maxscale_zoom15;
       &minscale_zoom16;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-tert-casing.18.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="7" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
       &minscale_zoom15;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-casing.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="6" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
       &minscale_zoom15;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="5" stroke="#fff" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-casing.18.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="8" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='service'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-casing.14.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="5" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.18.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="7" stroke="#fff" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-tert-casing.24.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="13" stroke="#bbb" stroke-width="3" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-casing.24.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="12" stroke="#bbb" stroke-width="3" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='service'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-casing.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="6" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.24.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="11" stroke="#fff" stroke-width="3" allow-overlap="true"/>
     </Rule>
 </Style>
 <Style name="turning_circle-fill">
@@ -68,57 +68,57 @@
       &maxscale_zoom15;
       &minscale_zoom16;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-tert-fill.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="7" fill="#ffffb3" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
       &minscale_zoom15;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.14.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="6" fill="#fff" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
       &minscale_zoom15;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-livs-fill.14.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="5" fill="#ccc" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="8" fill="#fff" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='service'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.12.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="5" fill="#fff" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom16;
       &minscale_zoom16;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-livs-fill.16.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="7" fill="#ccc" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-tert-fill.22.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="13" fill="#ffffb3" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='residential' or [int_tc_type]='unclassified'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.22.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="12" fill="#fff" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='service'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-uncl-fill.14.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="6" fill="#fff" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom17;
       <Filter>[int_tc_type]='living_street'</Filter>
-      <PointSymbolizer file="&symbols;/turning_circle-livs-fill.22.png" allow-overlap="true"/>
+      <MarkersSymbolizer width="11" fill="#ccc" stroke-width="0" allow-overlap="true"/>
     </Rule>
 </Style>
 <Style name="highway-area-casing">
