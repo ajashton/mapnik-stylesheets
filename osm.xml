@@ -10,7 +10,7 @@
       &maxscale_zoom15;
       &minscale_zoom16;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <MarkersSymbolizer width="7" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
+      <MarkersSymbolizer width="8" stroke="#bbb" stroke-width="1.6" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
@@ -68,7 +68,7 @@
       &maxscale_zoom15;
       &minscale_zoom16;
       <Filter>[int_tc_type]='tertiary'</Filter>
-      <MarkersSymbolizer width="7" fill="#ffffb3" stroke-width="0" allow-overlap="true"/>
+      <MarkersSymbolizer width="8" fill="#ffffb3" stroke-width="0" allow-overlap="true"/>
     </Rule>
     <Rule>
       &maxscale_zoom15;
